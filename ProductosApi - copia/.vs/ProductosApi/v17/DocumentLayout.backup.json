@@ -1,0 +1,350 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\ProductosApi\\ProductosApi - copia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14B5BC89-8B87-4963-9FEF-896222EBF3C8}|ProductosApi\\ProductosApi.csproj|c:\\users\\dell\\desktop\\productosapi\\productosapi - copia\\productosapi\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B5BC89-8B87-4963-9FEF-896222EBF3C8}|ProductosApi\\ProductosApi.csproj|solutionrelative:productosapi\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B5BC89-8B87-4963-9FEF-896222EBF3C8}|ProductosApi\\ProductosApi.csproj|c:\\users\\dell\\desktop\\productosapi\\productosapi - copia\\productosapi\\dtos\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B5BC89-8B87-4963-9FEF-896222EBF3C8}|ProductosApi\\ProductosApi.csproj|solutionrelative:productosapi\\dtos\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B5BC89-8B87-4963-9FEF-896222EBF3C8}|ProductosApi\\ProductosApi.csproj|c:\\users\\dell\\desktop\\productosapi\\productosapi - copia\\productosapi\\dtos\\productocreardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B5BC89-8B87-4963-9FEF-896222EBF3C8}|ProductosApi\\ProductosApi.csproj|solutionrelative:productosapi\\dtos\\productocreardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B5BC89-8B87-4963-9FEF-896222EBF3C8}|ProductosApi\\ProductosApi.csproj|c:\\users\\dell\\desktop\\productosapi\\productosapi - copia\\productosapi\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B5BC89-8B87-4963-9FEF-896222EBF3C8}|ProductosApi\\ProductosApi.csproj|solutionrelative:productosapi\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B5BC89-8B87-4963-9FEF-896222EBF3C8}|ProductosApi\\ProductosApi.csproj|c:\\users\\dell\\desktop\\productosapi\\productosapi - copia\\productosapi\\helpers\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B5BC89-8B87-4963-9FEF-896222EBF3C8}|ProductosApi\\ProductosApi.csproj|solutionrelative:productosapi\\helpers\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B5BC89-8B87-4963-9FEF-896222EBF3C8}|ProductosApi\\ProductosApi.csproj|c:\\users\\dell\\desktop\\productosapi\\productosapi - copia\\productosapi\\models\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B5BC89-8B87-4963-9FEF-896222EBF3C8}|ProductosApi\\ProductosApi.csproj|solutionrelative:productosapi\\models\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B5BC89-8B87-4963-9FEF-896222EBF3C8}|ProductosApi\\ProductosApi.csproj|c:\\users\\dell\\desktop\\productosapi\\productosapi - copia\\productosapi\\dtos\\proveedordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B5BC89-8B87-4963-9FEF-896222EBF3C8}|ProductosApi\\ProductosApi.csproj|solutionrelative:productosapi\\dtos\\proveedordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B5BC89-8B87-4963-9FEF-896222EBF3C8}|ProductosApi\\ProductosApi.csproj|c:\\users\\dell\\desktop\\productosapi\\productosapi - copia\\productosapi\\dtos\\proveedorcreardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B5BC89-8B87-4963-9FEF-896222EBF3C8}|ProductosApi\\ProductosApi.csproj|solutionrelative:productosapi\\dtos\\proveedorcreardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B5BC89-8B87-4963-9FEF-896222EBF3C8}|ProductosApi\\ProductosApi.csproj|c:\\users\\dell\\desktop\\productosapi\\productosapi - copia\\productosapi\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B5BC89-8B87-4963-9FEF-896222EBF3C8}|ProductosApi\\ProductosApi.csproj|solutionrelative:productosapi\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B5BC89-8B87-4963-9FEF-896222EBF3C8}|ProductosApi\\ProductosApi.csproj|c:\\users\\dell\\desktop\\productosapi\\productosapi - copia\\productosapi\\dtos\\ventacreardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B5BC89-8B87-4963-9FEF-896222EBF3C8}|ProductosApi\\ProductosApi.csproj|solutionrelative:productosapi\\dtos\\ventacreardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B5BC89-8B87-4963-9FEF-896222EBF3C8}|ProductosApi\\ProductosApi.csproj|c:\\users\\dell\\desktop\\productosapi\\productosapi - copia\\productosapi\\dtos\\ventasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B5BC89-8B87-4963-9FEF-896222EBF3C8}|ProductosApi\\ProductosApi.csproj|solutionrelative:productosapi\\dtos\\ventasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B5BC89-8B87-4963-9FEF-896222EBF3C8}|ProductosApi\\ProductosApi.csproj|c:\\users\\dell\\desktop\\productosapi\\productosapi - copia\\productosapi\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B5BC89-8B87-4963-9FEF-896222EBF3C8}|ProductosApi\\ProductosApi.csproj|solutionrelative:productosapi\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B5BC89-8B87-4963-9FEF-896222EBF3C8}|ProductosApi\\ProductosApi.csproj|c:\\users\\dell\\desktop\\productosapi\\productosapi - copia\\productosapi\\dtos\\ventadetalledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B5BC89-8B87-4963-9FEF-896222EBF3C8}|ProductosApi\\ProductosApi.csproj|solutionrelative:productosapi\\dtos\\ventadetalledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B5BC89-8B87-4963-9FEF-896222EBF3C8}|ProductosApi\\ProductosApi.csproj|c:\\users\\dell\\desktop\\productosapi\\productosapi - copia\\productosapi\\controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B5BC89-8B87-4963-9FEF-896222EBF3C8}|ProductosApi\\ProductosApi.csproj|solutionrelative:productosapi\\controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B5BC89-8B87-4963-9FEF-896222EBF3C8}|ProductosApi\\ProductosApi.csproj|c:\\users\\dell\\desktop\\productosapi\\productosapi - copia\\productosapi\\data\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B5BC89-8B87-4963-9FEF-896222EBF3C8}|ProductosApi\\ProductosApi.csproj|solutionrelative:productosapi\\data\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B5BC89-8B87-4963-9FEF-896222EBF3C8}|ProductosApi\\ProductosApi.csproj|c:\\users\\dell\\desktop\\productosapi\\productosapi - copia\\productosapi\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B5BC89-8B87-4963-9FEF-896222EBF3C8}|ProductosApi\\ProductosApi.csproj|solutionrelative:productosapi\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B5BC89-8B87-4963-9FEF-896222EBF3C8}|ProductosApi\\ProductosApi.csproj|c:\\users\\dell\\desktop\\productosapi\\productosapi - copia\\productosapi\\services\\manejoarchivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B5BC89-8B87-4963-9FEF-896222EBF3C8}|ProductosApi\\ProductosApi.csproj|solutionrelative:productosapi\\services\\manejoarchivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B5BC89-8B87-4963-9FEF-896222EBF3C8}|ProductosApi\\ProductosApi.csproj|c:\\users\\dell\\desktop\\productosapi\\productosapi - copia\\productosapi\\services\\imanejoarchivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B5BC89-8B87-4963-9FEF-896222EBF3C8}|ProductosApi\\ProductosApi.csproj|solutionrelative:productosapi\\services\\imanejoarchivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B5BC89-8B87-4963-9FEF-896222EBF3C8}|ProductosApi\\ProductosApi.csproj|c:\\users\\dell\\desktop\\productosapi\\productosapi - copia\\productosapi\\dtos\\clientecreardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B5BC89-8B87-4963-9FEF-896222EBF3C8}|ProductosApi\\ProductosApi.csproj|solutionrelative:productosapi\\dtos\\clientecreardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B5BC89-8B87-4963-9FEF-896222EBF3C8}|ProductosApi\\ProductosApi.csproj|c:\\users\\dell\\desktop\\productosapi\\productosapi - copia\\productosapi\\dtos\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B5BC89-8B87-4963-9FEF-896222EBF3C8}|ProductosApi\\ProductosApi.csproj|solutionrelative:productosapi\\dtos\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\ProductosApi\\ProductosApi - copia\\ProductosApi\\DTOs\\ProductoDTO.cs",
+              "RelativeDocumentMoniker": "ProductosApi\\DTOs\\ProductoDTO.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\ProductosApi\\ProductosApi - copia\\ProductosApi\\DTOs\\ProductoDTO.cs",
+              "RelativeToolTip": "ProductosApi\\DTOs\\ProductoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T02:10:04.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProveedorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\ProductosApi\\ProductosApi - copia\\ProductosApi\\DTOs\\ProveedorDTO.cs",
+              "RelativeDocumentMoniker": "ProductosApi\\DTOs\\ProveedorDTO.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\ProductosApi\\ProductosApi - copia\\ProductosApi\\DTOs\\ProveedorDTO.cs",
+              "RelativeToolTip": "ProductosApi\\DTOs\\ProveedorDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T01:14:05.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Proveedor.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\ProductosApi\\ProductosApi - copia\\ProductosApi\\Models\\Proveedor.cs",
+              "RelativeDocumentMoniker": "ProductosApi\\Models\\Proveedor.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\ProductosApi\\ProductosApi - copia\\ProductosApi\\Models\\Proveedor.cs",
+              "RelativeToolTip": "ProductosApi\\Models\\Proveedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T01:10:54.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\ProductosApi\\ProductosApi - copia\\ProductosApi\\Helpers\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "ProductosApi\\Helpers\\AutoMapperProfiles.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\ProductosApi\\ProductosApi - copia\\ProductosApi\\Helpers\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "ProductosApi\\Helpers\\AutoMapperProfiles.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T01:10:10.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\ProductosApi\\ProductosApi - copia\\ProductosApi\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "ProductosApi\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\ProductosApi\\ProductosApi - copia\\ProductosApi\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "ProductosApi\\Controllers\\ProductoController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T01:30:11.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VentaController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\ProductosApi\\ProductosApi - copia\\ProductosApi\\Controllers\\VentaController.cs",
+              "RelativeDocumentMoniker": "ProductosApi\\Controllers\\VentaController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\ProductosApi\\ProductosApi - copia\\ProductosApi\\Controllers\\VentaController.cs",
+              "RelativeToolTip": "ProductosApi\\Controllers\\VentaController.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T01:58:41.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductoCrearDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\ProductosApi\\ProductosApi - copia\\ProductosApi\\DTOs\\ProductoCrearDTO.cs",
+              "RelativeDocumentMoniker": "ProductosApi\\DTOs\\ProductoCrearDTO.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\ProductosApi\\ProductosApi - copia\\ProductosApi\\DTOs\\ProductoCrearDTO.cs",
+              "RelativeToolTip": "ProductosApi\\DTOs\\ProductoCrearDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T02:15:07.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProveedorCrearDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\ProductosApi\\ProductosApi - copia\\ProductosApi\\DTOs\\ProveedorCrearDTO.cs",
+              "RelativeDocumentMoniker": "ProductosApi\\DTOs\\ProveedorCrearDTO.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\ProductosApi\\ProductosApi - copia\\ProductosApi\\DTOs\\ProveedorCrearDTO.cs",
+              "RelativeToolTip": "ProductosApi\\DTOs\\ProveedorCrearDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T01:19:41.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\ProductosApi\\ProductosApi - copia\\ProductosApi\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "ProductosApi\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\ProductosApi\\ProductosApi - copia\\ProductosApi\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "ProductosApi\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAGAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T01:07:12.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\ProductosApi\\ProductosApi - copia\\ProductosApi\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "ProductosApi\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\ProductosApi\\ProductosApi - copia\\ProductosApi\\Models\\Producto.cs",
+              "RelativeToolTip": "ProductosApi\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T01:48:39.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VentaCrearDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\ProductosApi\\ProductosApi - copia\\ProductosApi\\DTOs\\VentaCrearDTO.cs",
+              "RelativeDocumentMoniker": "ProductosApi\\DTOs\\VentaCrearDTO.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\ProductosApi\\ProductosApi - copia\\ProductosApi\\DTOs\\VentaCrearDTO.cs",
+              "RelativeToolTip": "ProductosApi\\DTOs\\VentaCrearDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:59:10.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VentaDetalleDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\ProductosApi\\ProductosApi - copia\\ProductosApi\\DTOs\\VentaDetalleDTO.cs",
+              "RelativeDocumentMoniker": "ProductosApi\\DTOs\\VentaDetalleDTO.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\ProductosApi\\ProductosApi - copia\\ProductosApi\\DTOs\\VentaDetalleDTO.cs",
+              "RelativeToolTip": "ProductosApi\\DTOs\\VentaDetalleDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:59:25.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\ProductosApi\\ProductosApi - copia\\ProductosApi\\Models\\Venta.cs",
+              "RelativeDocumentMoniker": "ProductosApi\\Models\\Venta.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\ProductosApi\\ProductosApi - copia\\ProductosApi\\Models\\Venta.cs",
+              "RelativeToolTip": "ProductosApi\\Models\\Venta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T15:02:12.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VentasDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\ProductosApi\\ProductosApi - copia\\ProductosApi\\DTOs\\VentasDTO.cs",
+              "RelativeDocumentMoniker": "ProductosApi\\DTOs\\VentasDTO.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\ProductosApi\\ProductosApi - copia\\ProductosApi\\DTOs\\VentasDTO.cs",
+              "RelativeToolTip": "ProductosApi\\DTOs\\VentasDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T15:03:06.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProveedorController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\ProductosApi\\ProductosApi - copia\\ProductosApi\\Controllers\\ProveedorController.cs",
+              "RelativeDocumentMoniker": "ProductosApi\\Controllers\\ProveedorController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\ProductosApi\\ProductosApi - copia\\ProductosApi\\Controllers\\ProveedorController.cs",
+              "RelativeToolTip": "ProductosApi\\Controllers\\ProveedorController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T01:06:43.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApiDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\ProductosApi\\ProductosApi - copia\\ProductosApi\\Data\\ApiDbContext.cs",
+              "RelativeDocumentMoniker": "ProductosApi\\Data\\ApiDbContext.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\ProductosApi\\ProductosApi - copia\\ProductosApi\\Data\\ApiDbContext.cs",
+              "RelativeToolTip": "ProductosApi\\Data\\ApiDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T02:49:31.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ManejoArchivos.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\ProductosApi\\ProductosApi - copia\\ProductosApi\\Services\\ManejoArchivos.cs",
+              "RelativeDocumentMoniker": "ProductosApi\\Services\\ManejoArchivos.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\ProductosApi\\ProductosApi - copia\\ProductosApi\\Services\\ManejoArchivos.cs",
+              "RelativeToolTip": "ProductosApi\\Services\\ManejoArchivos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T02:49:16.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IManejoArchivos.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\ProductosApi\\ProductosApi - copia\\ProductosApi\\Services\\IManejoArchivos.cs",
+              "RelativeDocumentMoniker": "ProductosApi\\Services\\IManejoArchivos.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\ProductosApi\\ProductosApi - copia\\ProductosApi\\Services\\IManejoArchivos.cs",
+              "RelativeToolTip": "ProductosApi\\Services\\IManejoArchivos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T02:41:56.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ClienteCrearDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\ProductosApi\\ProductosApi - copia\\ProductosApi\\DTOs\\ClienteCrearDTO.cs",
+              "RelativeDocumentMoniker": "ProductosApi\\DTOs\\ClienteCrearDTO.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\ProductosApi\\ProductosApi - copia\\ProductosApi\\DTOs\\ClienteCrearDTO.cs",
+              "RelativeToolTip": "ProductosApi\\DTOs\\ClienteCrearDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T01:19:43.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ClienteDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\ProductosApi\\ProductosApi - copia\\ProductosApi\\DTOs\\ClienteDTO.cs",
+              "RelativeDocumentMoniker": "ProductosApi\\DTOs\\ClienteDTO.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\ProductosApi\\ProductosApi - copia\\ProductosApi\\DTOs\\ClienteDTO.cs",
+              "RelativeToolTip": "ProductosApi\\DTOs\\ClienteDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T01:14:11.599Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
